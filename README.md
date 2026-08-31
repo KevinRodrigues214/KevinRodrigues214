@@ -1,17 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Kevin 👋
 
-<!--
-**KevinRodrigues214/KevinRodrigues214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Software Developer | Advanced Diploma in Software Engineering Technology (Centennial College) + B.Sc. in Computer Science
 
-Here are some ideas to get you started:
+💻 I build full-stack applications with **Java, C#, Python, and SQL**, and I'm comfortable working across the stack — from REST APIs and relational databases to cloud infrastructure on **AWS** (Lambda, DynamoDB, S3, ECS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Recently, I've been exploring **machine learning** (built an end-to-end classification pipeline with scikit-learn) and integrating **AI coding assistants** into my daily workflow to learn faster and write better code.
+
+🚀 Currently building **BioTrace**, a fitness platform featuring an interactive 3D hologram that visualizes muscle fatigue and recovery in real time.
+
+🌎 Based in Canada, open to relocating anywhere for the right opportunity.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rodrigues-kevin/)
 ![snake gif](https://raw.githubusercontent.com/KevinRodrigues214/KevinRodrigues214/output/github-contribution-grid-snake.svg)
